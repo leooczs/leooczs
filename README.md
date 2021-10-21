@@ -7,9 +7,5 @@ Hey, I am Leo!
  - <a href="https://fastcord.de">Fastcord</a> - Free Hosting
  - <a href="https://tydo.me">Tydo</a> - Discord Bot
    
-<br   />
 
-<br  />
-<br  />
-<br  />
 Cheers
