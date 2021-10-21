@@ -5,7 +5,6 @@ Hey, I am Leo!
 ## Projects
 
  - <a href="https://fastcord.de">Fastcord</a> - Free Hosting
- <br/>
  - <a href="https://tydo.me">Tydo</a> - Discord Bot
    
 <br   />
