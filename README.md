@@ -33,6 +33,6 @@
 ##  ©️ Credits
 
 <p align="left">  
-    <a href="https://github.com/Maddox3306" target="_blank"> <img src="https://avatars.githubusercontent.com/u/84946344?v=4"/> </a> 
+    <a href="https://github.com/Maddox3306" target="_blank"> <img src="https://cdn.discordapp.com/attachments/926824140051193866/951521687474667531/maddox48.png"/> </a> 
 </p>
 
