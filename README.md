@@ -18,7 +18,7 @@
 ## 🚀 Projects, Languages and Tools:
 
 <p align="left">  
-    <a href="https://fastcord.de" target="_blank"> <img src="https://cdn.discordapp.com/attachments/926824140051193866/947874077333389312/fastcord_logo.png"/> </a> 
+    <a href="https://fastcord.de" target="_blank"> <img src="https://cdn.discordapp.com/attachments/926824140051193866/951520968956866620/fastcord48.png"/> </a> 
     <a href="https://devsky.one/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/922627634716868609/923353552607412325/melone__.png"/> </a> 
     <a href="https://microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/> </a> 
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
