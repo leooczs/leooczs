@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/a/Smalg7v" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/926824140051193866/951522808712822824/githubbanner.png" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Leo!</h1>
 <h3 align="center">I'm a young Developer from Germany.</h3>
