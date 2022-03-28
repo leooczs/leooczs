@@ -29,7 +29,6 @@
 </p>
 
 <br/>
-https://img.shields.io/discord/762040253954785291?label=Fastcord&style=for-the-badge&logo=Discord
 
 ##  ©️ Credits
 
